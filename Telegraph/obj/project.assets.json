@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Telegraph\\IMust.csproj",
+      "projectUniqueName": "C:\\Development\\TelegraphGit\\Telegraph\\IMust.csproj",
       "projectName": "Telegraph_ElonMust",
-      "projectPath": "C:\\Development\\Telegraph\\IMust.csproj",
+      "projectPath": "C:\\Development\\TelegraphGit\\Telegraph\\IMust.csproj",
       "packagesPath": "C:\\Users\\stefan.cernohuby\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Telegraph\\obj\\",
+      "outputPath": "C:\\Development\\TelegraphGit\\Telegraph\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
