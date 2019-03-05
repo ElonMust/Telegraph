@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace DummyLogger
+namespace TelegraphGit
 {
-    public class Logger
+    public class Telegraph	
     {
-        public void Log(string text)
+        public void Tele	(string graph)
         {
-            Console.WriteLine(text);
+            Console.WriteLine(graph);
         }
     }
 }

@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>DummyLogger_PaulSavoie</PackageId>
-    <Authors>Paul Savoie</Authors>
-    <Company>SignPath GmbH</Company>
+    <PackageId>Telegraph_ElonMust</PackageId>
+    <Authors>Elon Must</Authors>
+    <Company>Trelegraph GmbH</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
