@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace TelegraphGit
+namespace IMust
 {
     public class Telegraph	
     {
-        public void Tele(string graph)
+        public void TelegraphMessage(string text)
         {
-            Console.WriteLine(graph);
+            Console.WriteLine(text);
         }
     }
 }
